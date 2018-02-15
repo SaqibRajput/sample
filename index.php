@@ -1,6 +1,6 @@
 <?php
 
 
-echo 'hello world!';
+echo 'First Index Page';
 
 ?>
