@@ -4,11 +4,16 @@ body {
 
 .heading{
 	color: blue;
-	font-size: 22px
+	font-size: 22px;
+	width: 100%;
+	text-align: center;
+	float: left;
 }
 
 .text {
-	color: green;
-	font-size: 14px
-
+	color: darkgreen;
+	font-size: 14px;
+	width: 100%;
+	text-align: center;
+	float: left;
 }

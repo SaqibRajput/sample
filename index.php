@@ -8,6 +8,6 @@
 </head>
 <body>
 	<span class="heading">Saqib Rajput</span><br/>
-	<span class="mobile-no">03006710419</span><br/>
+	<span class="text">03006710419</span><br/>
 </body>
 </html>
