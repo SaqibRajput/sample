@@ -1,0 +1,14 @@
+body {
+	background: grey
+}
+
+.heading{
+	color: blue;
+	font-size: 22px
+}
+
+.text {
+	color: green;
+	font-size: 14px
+
+}
