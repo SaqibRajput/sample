@@ -4,7 +4,7 @@
 <html>
 <head>
 	<title>Test GIT</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style2.css">
 </head>
 <body>
 	<span class="heading">Saqib Rajput</span><br/>

@@ -1,0 +1,19 @@
+body {
+	background: lightblue
+}
+
+.heading{
+	color: red;
+	font-size: 22px;
+	width: 100%;
+	text-align: center;
+	float: left;
+}
+
+.text {
+	color: purple;
+	font-size: 14px;
+	width: 100%;
+	text-align: center;
+	float: left;
+}
